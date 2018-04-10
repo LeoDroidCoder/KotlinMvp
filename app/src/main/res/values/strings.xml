@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Architecture</string>
+
+    <string name="error_message_generic">An error occurred. Try again or contact support</string>
+    <string name="error_message_internet_connection">Seems you are offline…</string>
+    <string name="error_message_get_users">Failed to load users</string>
+    <string name="text_empty_users">There are no users</string>
+
+</resources>
